@@ -1,44 +1,45 @@
-	Hd(F)	*Copy(sig)-II	*Copy(sig)	Hd(sig)	Max(V-feature)-I	*VowelFeature	*Schwa	*OralCoda	Hd(mu)	*LongVowel	Max(mu)	*Copy(seg)	FtBin	CodaCond	HavePlace	NoLink(pl)	Max(pl)	*Copy-Loc(seg)	Max	Max(V-feature)
-{tableau kab 1}a	W	e	L	e	e	L	e	L	e	e	e	e	W	L	e	e	e	e	e	e
-{tableau kab 1}b	e	e	L	W	e	L	e	L	e	e	e	e	W	L	e	e	e	e	e	e
-{tableau kab 2}a	e	e	e	e	e	e	e	e	e	e	e	e	e	W	L	e	L	e	e	e
-{tableau kab 2}c	e	e	e	e	W	L	W	e	e	e	e	e	e	W	L	e	L	e	e	W
-{tableau kab 3}a	e	e	e	e	e	e	e	W	L	e	e	e	e	e	W	e	e	e	L	e
-{tableau kab 3}c	e	e	e	e	e	e	e	W	L	e	e	e	e	e	e	W	e	e	L	e
-{tableau kab 3}d	e	e	e	e	W	L	W	W	L	e	e	e	e	e	W	e	e	e	L	W
-{tableau kab 4}a	e	e	e	e	e	e	e	e	W	e	L	e	L	e	e	e	e	e	e	e
-{tableau kab 4}b	e	e	e	e	e	e	e	e	e	W	L	e	L	e	e	e	e	e	e	e
-{tableau kab 4}c	e	e	e	e	e	e	e	W	e	e	L	W	L	W	e	e	e	e	e	e
-{tableau kab 4}d	e	e	e	e	e	W	e	e	e	e	L	W	L	e	e	e	e	e	e	e
-{tableau kab 4}f	e	e	e	e	W	L	W	e	W	e	L	e	L	e	e	e	e	e	e	W
-{tableau kab 5}b	e	e	e	W	e	e	e	e	e	e	e	e	L	e	e	e	e	e	e	e
-{tableau kab 5}c	e	e	W	e	e	W	e	e	e	e	e	e	L	e	e	e	e	e	e	e
-{tableau kab 5}d	e	e	e	e	e	e	e	W	e	e	e	W	L	W	e	e	e	W	e	e
-{tableau kab 5}e	e	e	e	e	e	W	e	e	e	W	e	W	L	e	e	e	e	e	e	e
-{tableau kab 5}f	e	e	e	e	W	L	W	e	e	e	e	e	e	e	e	e	e	e	e	W
-{tableau tuom 3}a	e	e	e	e	e	e	e	e	e	e	e	e	e	e	W	L	e	e	e	e
-{tableau tuom 3}c	e	e	e	e	e	e	e	e	W	e	e	e	e	e	e	L	e	e	W	e
-{tableau tuom 3}d	e	e	e	e	W	L	W	e	e	e	e	e	e	e	W	L	e	e	e	W
-{tableau soro 1}a	W	e	e	L	e	e	e	e	e	e	e	e	e	e	e	e	e	e	e	e
-{tableau soro 1}c	e	W	W	L	e	W	e	e	e	e	e	e	L	e	e	e	e	e	e	e
-{tableau soro 2}a	e	e	e	W	e	L	e	e	e	e	e	L	e	e	e	e	e	e	e	e
-{tableau soro 2}c	e	e	e	e	e	e	e	W	e	e	e	e	L	W	e	e	e	e	e	e
-{tableau soro 3}a	e	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e	e	e	e	L
-{tableau tang 2}a	e	e	e	W	e	L	e	e	e	e	e	L	W	L	e	e	e	e	e	e
-{tableau tang 2}b	e	e	e	e	e	e	e	e	e	e	e	e	W	L	e	e	e	e	e	e
-{tableau jioni 2}a	e	e	e	W	e	L	e	e	e	e	e	L	W	e	e	e	e	e	e	e
-{tableau jioni 2}c	e	e	e	e	e	e	e	e	e	e	e	e	e	W	e	e	e	e	e	e
-{tableau jioni 3}a	e	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e	e	e	e	L
-{tableau jioni 4}a	e	e	e	e	e	e	W	e	L	e	e	e	e	e	e	e	e	e	L	e
-{tableau jioni 5}a	e	e	e	e	e	e	e	e	W	e	e	L	e	L	e	e	e	L	e	e
-{tableau jioni 5}c	e	e	e	e	e	e	e	e	e	e	W	L	W	L	e	e	e	L	e	e
-{tableau mal 5}b	e	e	e	e	e	e	e	e	e	e	e	W	L	W	e	e	e	e	e	e
-{tableau keli 1}a	e	e	e	e	e	e	e	e	W	e	L	e	e	e	e	e	e	e	e	e
-{tableau keli 1}b	e	e	e	e	e	e	e	W	e	e	L	W	e	W	e	e	e	e	e	e
-{tableau keli 1}c	e	e	e	e	e	e	e	W	e	e	L	W	e	W	e	e	e	e	e	e
-{tableau keli 1}d	e	e	e	e	e	W	e	e	e	e	L	E	e	e	e	e	e	W	e	e
-{tableau kentoni 1}a	e	e	e	e	e	e	e	e	W	e	e	L	e	L	e	e	e	L	e	e
-{tableau kentoni 1}b	e	e	e	e	e	W	e	e	e	W	e	e	e	L	e	e	e	L	e	e
-{tableau kentoni 1}c	e	e	e	e	e	e	e	W	e	e	e	e	e	e	e	e	e	L	e	e
-{tableau kentoni 1}d	e	e	e	e	e	W	e	e	e	e	e	e	e	L	e	e	e	e	e	e
-{tableau kentoni 1}f	e	e	e	e	e	e	e	e	e	e	W	L	e	L	e	e	e	L	e	e
+	Hd(F)	*Copy(sig)-II	*Copy(sig)	Hd(sig)	Max(V-feature)-I	*VowelFeature	Hd(mu)-Max	*Schwa	*OralCoda	Hd(mu)	*LongVowel	Max(mu)	*Copy(seg)	FtBin	CodaCond	HavePlace	NoLink(pl)	Max(pl)	*Copy-Loc(seg)	Max	Max(V-feature)
+{tableau kab 1}a	W	e	L	e	e	L	e	e	L	e	e	e	e	W	L	e	e	e	e	e	e
+{tableau kab 1}b	e	e	L	W	e	L	e	e	L	e	e	e	e	W	L	e	e	e	e	e	e
+{tableau kab 2}a	e	e	e	e	e	e	e	e	e	e	e	e	e	e	W	L	e	L	e	e	e
+{tableau kab 2}c	e	e	e	e	W	L	e	W	e	e	e	e	e	e	W	L	e	L	e	e	W
+{tableau kab 3}a	e	e	e	e	e	e	e	e	W	L	e	e	e	e	e	W	e	e	e	L	e
+{tableau kab 3}c	e	e	e	e	e	e	e	e	W	L	e	e	e	e	e	e	W	e	e	L	e
+{tableau kab 3}d	e	e	e	e	W	L	e	W	W	L	e	e	e	e	e	W	e	e	e	L	W
+{tableau kab 4}a	e	e	e	e	e	e	e	e	e	W	e	L	e	L	e	e	e	e	e	e	e
+{tableau kab 4}b	e	e	e	e	e	e	e	e	e	e	W	L	e	L	e	e	e	e	e	e	e
+{tableau kab 4}c	e	e	e	e	e	e	e	e	W	e	e	L	W	L	W	e	e	e	e	e	e
+{tableau kab 4}d	e	e	e	e	e	W	e	e	e	e	e	L	W	L	e	e	e	e	e	e	e
+{tableau kab 4}f	e	e	e	e	W	L	e	W	e	W	e	L	e	L	e	e	e	e	e	e	W
+{tableau kab 5}b	e	e	e	W	e	e	e	e	e	e	e	e	e	L	e	e	e	e	e	e	e
+{tableau kab 5}c	e	e	W	e	e	W	e	e	e	e	e	e	e	L	e	e	e	e	e	e	e
+{tableau kab 5}d	e	e	e	e	e	e	e	e	W	e	e	e	W	L	W	e	e	e	W	e	e
+{tableau kab 5}e	e	e	e	e	e	W	e	e	e	e	W	e	W	L	e	e	e	e	e	e	e
+{tableau kab 5}f	e	e	e	e	W	L	e	W	e	e	e	e	e	e	e	e	e	e	e	e	W
+{tableau tuom 3}a	e	e	e	e	e	e	e	e	e	e	e	e	e	e	e	W	L	e	e	e	e
+{tableau tuom 3}c	e	e	e	e	e	e	e	e	e	W	e	e	e	e	e	e	L	e	e	W	e
+{tableau tuom 3}d	e	e	e	e	W	L	e	W	e	e	e	e	e	e	e	W	L	e	e	e	W
+{tableau soro 1}a	W	ref	e	L	e	e	e	e	e	e	e	e	e	e	e	e	e	e	e	e	e
+{tableau soro 1}c	e	W	W	L	e	W	e	e	e	e	e	e	e	L	e	e	e	e	e	e	e
+{tableau soro 2}a	e	e	e	W	e	L	e	e	e	e	e	e	L	e	e	e	e	e	e	e	e
+{tableau soro 2}c	e	e	e	e	e	e	e	e	W	e	e	e	e	L	W	e	e	e	e	e	e
+{tableau soro 3}a	e	e	e	e	e	W	e	L	e	e	e	e	e	e	e	e	e	e	e	e	L
+{tableau soro 4}b	e	e	e	e	e	e	W	L	e	W	e	e	e	e	e	e	e	e	e	W	e
+{tableau tang 2}a	e	e	e	W	e	L	e	e	e	e	e	e	L	W	L	e	e	e	e	e	e
+{tableau tang 2}b	e	e	e	e	e	e	e	e	e	e	e	e	e	W	L	e	e	e	e	e	e
+{tableau jioni 2}a	e	e	e	W	e	L	e	e	e	e	e	e	L	W	e	e	e	e	e	e	e
+{tableau jioni 2}c	e	e	e	e	e	e	e	e	e	e	e	e	e	e	W	e	e	e	e	e	e
+{tableau jioni 3}a	e	e	e	e	e	W	e	L	e	e	e	e	e	e	e	e	e	e	e	e	L
+{tableau jioni 4}a	e	e	e	e	e	e	e	W	e	L	e	e	e	e	e	e	e	e	e	L	e
+{tableau jioni 5}a	e	e	e	e	e	e	e	e	e	W	e	e	L	e	L	e	e	e	L	e	e
+{tableau jioni 5}c	e	e	e	e	e	e	e	e	e	e	e	W	L	W	L	e	e	e	L	e	e
+{tableau mal 5}b	e	e	e	e	e	e	e	e	e	e	e	e	W	L	W	e	e	e	e	e	e
+{tableau keli 1}a	e	e	e	e	e	e	e	e	e	W	e	L	e	e	e	e	e	e	e	e	e
+{tableau keli 1}b	e	e	e	e	e	e	e	e	W	e	e	L	W	e	W	e	e	e	e	e	e
+{tableau keli 1}c	e	e	e	e	e	e	e	e	W	e	e	L	W	e	W	e	e	e	e	e	e
+{tableau keli 1}d	e	e	e	e	e	W	e	e	e	e	e	L	E	e	e	e	e	e	W	e	e
+{tableau kentoni 1}a	e	e	e	e	e	e	e	e	e	W	e	e	L	e	L	e	e	e	L	e	e
+{tableau kentoni 1}b	e	e	e	e	e	W	e	e	e	e	W	e	e	e	L	e	e	e	L	e	e
+{tableau kentoni 1}c	e	e	e	e	e	e	e	e	W	e	e	e	e	e	e	e	e	e	L	e	e
+{tableau kentoni 1}d	e	e	e	e	e	W	e	e	e	e	e	e	e	e	L	e	e	e	e	e	e
+{tableau kentoni 1}f	e	e	e	e	e	e	e	e	e	e	e	W	L	e	L	e	e	e	L	e	e
