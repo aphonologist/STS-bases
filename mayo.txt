@@ -1,48 +1,50 @@
-		InitialAccent	Hd(F)	Iamb	*Clash	*Copy(sig)	FtBin	Hd(sig)	*Insert(sig)	*Copy(seg)	NoCoda	Max(H)	PeninitialAccent
-{tableau mayo nokwa1 1}	a	W	e	e	e	e	e	e	e	e	e	e	e
-{tableau mayo nokwa1 1}	b	W	L	e	e	W	L	e	e	e	W	e	e
-{tableau mayo nokwa1 1}	c	W	L	e	e	W	L	e	e	e	W	e	e
-{tableau mayo nokwa1 1}	d	W	L	e	e	e	e	W	W	e	e	e	e
-{tableau mayo nokwa1 2}	a	e	W	e	L	L	W	e	e	e	L	e	e
-{tableau mayo nokwa1 2}	c	e	e	W	L	e	e	e	e	e	e	e	e
-{tableau mayo nokwa1 2}	d	W	e	e	L	e	W	W	W	e	e	e	e
-{tableau mayo nokwa1 3}	a	e	e	e	W	e	e	e	e	e	e	L	e
-{tableau mayo nokwa1 3}	b	e	e	e	e	W	e	e	e	e	e	L	e
-{tableau mayo nokwa1 3}	c	e	e	e	e	e	e	W	W	e	e	L	e
-{tableau mayo nokwa1 3}	e	W	e	e	e	e	e	e	e	e	e	e	e
-{tableau mayo noka1 1}	a	W	e	e	e	e	e	e	e	e	e	e	e
-{tableau mayo noka1 1}	b	W	e	e	e	W	e	e	e	e	e	e	e
-{tableau mayo noka1 1}	c	W	L	e	e	W	L	e	e	e	e	e	e
-{tableau mayo noka1 1}	d	W	e	e	e	e	e	W	W	e	e	e	e
-{tableau mayo noka1 2}	a	e	W	e	L	L	e	e	e	e	e	e	e
-{tableau mayo noka1 2}	c	e	e	W	L	e	L	e	e	e	e	e	e
-{tableau mayo noka1 2}	d	W	e	e	L	L	e	W	W	e	e	e	e
-{tableau mayo noka1 3}	a	e	e	e	W	e	e	e	e	e	e	L	e
-{tableau mayo noka1 3}	b	e	e	W	W	W	L	e	e	e	e	L	e
-{tableau mayo noka1 3}	c	e	e	W	e	W	L	e	e	e	e	L	e
-{tableau mayo noka1 3}	d	e	e	W	e	e	L	W	W	e	e	L	e
-{tableau mayo noka1 3}	e	e	e	e	W	e	L	e	e	W	W	L	e
-{tableau mayo noka1 3}	g	W	e	e	e	e	e	e	e	e	e	e	e
-{tableau mayo noka1 4}	a	e	e	e	e	e	W	e	e	L	L	e	e
-{tableau mayo noka1 4}	b	e	e	W	e	W	e	e	e	L	L	e	e
-{tableau mayo noka1 4}	c	e	e	W	e	e	e	W	W	L	L	e	e
-{tableau mayo noknoka2 1}	a	e	W	e	e	e	e	L	L	e	e	e	e
-{tableau mayo noknoka2 1}	b	e	e	e	e	W	L	L	L	e	W	e	e
-{tableau mayo noknoka2 1}	c	e	e	e	e	W	L	L	L	e	W	e	e
-{tableau mayo noknoka2 1}	e	e	W	e	e	e	e	L	L	e	e	e	L
-{tableau mayo noknoka2 2}	a	e	e	e	e	e	W	W	e	L	L	e	e
-{tableau mayo noknoka2 2}	b	e	e	e	e	W	e	W	e	L	e	e	e
-{tableau mayo noknoka2 2}	c	e	e	e	e	e	e	W	W	L	L	e	e
-{tableau mayo noknoka2 2}	d	e	e	e	e	e	W	e	e	e	L	e	e
-{tableau mayo noknoka2 2}	f	e	e	e	e	e	e	W	e	L	L	e	L
-{tableau mayo noknoka2 3}	a	e	e	e	e	e	e	e	e	e	e	e	W
-{tableau mayo noka2 1}	a	e	W	e	e	e	e	L	L	e	e	e	e
-{tableau mayo noka2 1}	b	e	e	e	e	W	e	L	L	e	e	e	e
-{tableau mayo noka2 1}	c	e	e	e	e	W	L	L	L	e	e	e	e
-{tableau mayo noka2 1}	e	e	W	e	e	e	e	L	L	e	e	e	L
-{tableau mayo noka2 2}	a	e	e	e	e	e	W	W	e	L	L	e	e
-{tableau mayo noka2 2}	b	e	e	e	e	W	e	W	W	L	L	e	e
-{tableau mayo noka2 2}	c	e	e	e	e	e	e	W	W	L	L	e	e
-{tableau mayo noka2 2}	d	e	e	e	e	e	W	e	e	e	L	e	e
-{tableau mayo noka2 2}	f	e	e	e	e	e	W	W	W	L	L	e	L
-{tableau mayo noka2 3}	a	e	e	e	e	e	e	e	e	e	e	e	W
+	InitialAccent	Hd(F)	Iamb	*Clash	*Copy(sig)	FtBin	Hd(sig)	*Insert(sig)	*Copy(seg)	NoCoda	Max(H)	PeninitialAccent
+{tableau mayo nokwa1 1}a	W	e	e	e	e	e	e	e	e	e	e	e
+{tableau mayo nokwa1 1}b	W	L	e	e	W	L	e	e	e	W	e	e
+{tableau mayo nokwa1 1}c	W	L	e	e	W	L	e	e	e	W	e	e
+{tableau mayo nokwa1 1}d	W	L	e	e	e	e	W	W	e	e	e	e
+F-nokWAe	W	e	e	e	e	e	e	e	e	e	e	L
+{tableau mayo nokwa1 2}a	e	W	e	L	L	W	e	e	e	L	e	W
+{tableau mayo nokwa1 2}c	e	e	W	L	e	e	e	e	e	e	e	W
+{tableau mayo nokwa1 2}d	W	e	e	L	e	W	W	W	e	e	e	e
+{tableau mayo nokwa1 3}a	e	e	e	W	e	e	e	e	e	e	L	L
+{tableau mayo nokwa1 3}b	e	e	e	e	W	e	e	e	e	e	L	e
+{tableau mayo nokwa1 3}c	e	e	e	e	e	e	W	W	e	e	L	L
+{tableau mayo nokwa1 3}e	W	e	e	e	e	e	e	e	e	e	e	L
+{tableau mayo noka1 1}a	W	e	e	e	e	e	e	e	e	e	e	e
+{tableau mayo noka1 1}b	W	e	e	e	W	e	e	e	e	e	e	e
+{tableau mayo noka1 1}c	W	L	e	e	W	L	e	e	e	e	e	e
+{tableau mayo noka1 1}d	W	e	e	e	e	e	W	W	e	e	e	e
+F-noKAe	W	e	e	e	e	e	e	e	e	e	e	L
+{tableau mayo noka1 2}a	e	W	e	L	L	e	e	e	e	e	e	W
+{tableau mayo noka1 2}c	e	e	W	L	e	L	e	e	e	e	e	W
+{tableau mayo noka1 2}d	W	e	e	L	L	e	W	W	e	e	e	W
+{tableau mayo noka1 3}a	e	e	e	W	e	e	e	e	e	e	L	L
+{tableau mayo noka1 3}b	e	e	W	W	W	L	e	e	e	e	L	L
+{tableau mayo noka1 3}c	e	e	W	e	W	L	e	e	e	e	L	e
+{tableau mayo noka1 3}d	e	e	W	e	e	L	W	W	e	e	L	e
+{tableau mayo noka1 3}e	e	e	e	W	e	L	e	e	W	W	L	L
+{tableau mayo noka1 3}g	W	e	e	e	e	e	e	e	e	e	e	L
+{tableau mayo noka1 4}a	e	e	e	e	e	W	e	e	L	L	e	e
+{tableau mayo noka1 4}b	e	e	W	e	W	e	e	e	L	L	e	e
+{tableau mayo noka1 4}c	e	e	W	e	e	e	W	W	L	L	e	e
+{tableau mayo noknoka2 1}a	e	W	e	e	e	e	L	L	e	e	e	e
+{tableau mayo noknoka2 1}b	e	e	e	e	W	L	L	L	e	W	e	e
+{tableau mayo noknoka2 1}c	e	e	e	e	W	L	L	L	e	W	e	e
+{tableau mayo noknoka2 1}e	e	W	e	e	e	e	L	L	e	e	e	L
+{tableau mayo noknoka2 2}a	e	e	e	e	e	W	W	e	L	L	e	e
+{tableau mayo noknoka2 2}b	e	e	e	e	W	e	W	e	L	e	e	e
+{tableau mayo noknoka2 2}c	e	e	e	e	e	e	W	W	L	L	e	e
+{tableau mayo noknoka2 2}d	e	e	e	e	e	W	e	e	e	L	e	e
+{tableau mayo noknoka2 2}f	e	e	e	e	e	e	W	e	L	L	e	L
+{tableau mayo noknoka2 3}a	e	e	e	e	e	e	e	e	e	e	e	W
+{tableau mayo noka2 1}a	e	W	e	e	e	e	L	L	e	e	e	e
+{tableau mayo noka2 1}b	e	e	e	e	W	e	L	L	e	e	e	e
+{tableau mayo noka2 1}c	e	e	e	e	W	L	L	L	e	e	e	e
+{tableau mayo noka2 1}e	e	W	e	e	e	e	L	L	e	e	e	L
+{tableau mayo noka2 2}a	e	e	e	e	e	W	W	e	L	L	e	e
+{tableau mayo noka2 2}b	e	e	e	e	W	e	W	W	L	L	e	e
+{tableau mayo noka2 2}c	e	e	e	e	e	e	W	W	L	L	e	e
+{tableau mayo noka2 2}d	e	e	e	e	e	W	e	e	e	L	e	e
+{tableau mayo noka2 2}f	e	e	e	e	e	W	W	W	L	L	e	L
+{tableau mayo noka2 3}a	e	e	e	e	e	e	e	e	e	e	e	W
