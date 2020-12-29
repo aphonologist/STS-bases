@@ -1,93 +1,93 @@
-	Hd(F)	*Copy(syll)	*Insert(syll)	*FinalLongVowel	Max(mu)	NoLink(mu)	*NonHeadVowel	NoCoda	*NonHighVowel-red	Hd(mu)	Ident(high)	*VwV	Ident(son)	*ComplexOnset	Max
-{tableau o 1}a	W	L	e	e	e	e	L	e	L	e	e	e	e	e	e
-{tableau o 1}c	e	L	W	e	e	e	L	e	L	e	e	e	e	e	e
-{tableau o 1}d	W	L	e	e	e	e	L	e	L	W	e	e	e	e	e
-{tableau o 1}e	W	L	e	e	e	e	L	W	L	W	e	e	e	e	e
-{tableau o 2}a	e	e	e	e	e	e	W	e	W	L	e	e	e	e	e
-{tableau o 2}c	e	e	e	e	e	e	e	W	e	e	e	W	e	e	e
-{tableau o 2}d	e	e	e	e	e	e	e	e	W	e	e	W	e	e	e
-{tableau o 2}e	e	e	e	e	e	e	e	W	W	e	e	e	e	e	e
-{tableau o 2}f	e	e	e	e	e	e	W	e	e	L	W	e	e	e	e
-{tableau o 2}g	e	e	e	e	e	e	W	e	e	L	W	e	e	e	e
-{tableau o 3}a	e	e	e	e	e	e	W	e	e	L	e	L	e	e	e
-{tableau o 3}c	e	e	e	e	e	e	e	W	e	e	e	L	e	e	e
-{tableau o 3}d	e	e	e	e	e	W	W	e	e	L	e	L	e	e	e
-{tableau o 3}e	e	e	e	e	W	e	W	e	e	L	e	L	e	e	e
-{tableau o 3}f	e	e	e	e	e	e	W	e	L	L	W	L	e	e	e
-{tableau o 4}a	e	e	e	e	e	L	e	e	e	W	e	e	e	e	e
-{tableau o 4}c	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e
-{tableau o 4}d	e	e	e	W	e	e	e	e	e	e	e	e	e	e	e
-{tableau o 4}e	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e
-{tableau o 4}f	e	e	e	e	e	L	e	e	L	W	W	e	e	e	e
-{tableau o 4}g	e	e	e	e	e	L	e	e	e	W	e	L	W	e	e
-{tableau o 4}g	e	e	e	e	e	L	e	e	e	W	e	L	e	e	W
-{tableau o 5}a	e	e	e	e	L	e	e	e	e	W	e	e	e	e	e
-{tableau o 5}b	e	e	e	W	L	W	e	e	e	e	e	e	e	e	e
-{tableau o 5}d	e	e	e	e	L	e	e	e	L	W	W	e	e	e	e
-{tableau o 5}e	e	e	e	e	L	e	e	e	e	W	e	L	W	e	e
-{tableau o 5}f	e	e	e	e	L	e	e	e	e	W	e	L	e	e	W
-{tableau o 6}a	e	e	e	e	e	e	e	e	e	e	e	W	L	e	e
-{tableau o 6}b	e	e	e	e	e	e	e	e	L	e	W	W	L	e	e
-{tableau o 6}c	e	e	e	e	e	e	e	e	e	e	e	e	L	e	W
-{tableau o 7}b	e	e	e	e	e	e	e	e	L	e	W	e	e	e	e
-{tableau jo 7}b	e	e	e	e	e	e	e	e	L	e	W	e	e	e	e
-{tableau vwe 1}a	W	L	e	e	e	e	L	e	L	e	e	e	e	e	e
-{tableau vwe 1}c	e	L	W	e	e	e	L	e	L	e	e	e	e	e	e
-{tableau vwe 1}d	W	L	e	e	e	e	L	e	L	W	e	e	e	W	e
-{tableau vwe 1}e	W	L	e	e	e	e	L	W	L	W	e	e	e	e	e
-{tableau vwe 2}a	e	e	e	e	e	e	W	e	W	L	e	e	e	L	e
-{tableau vwe 2}c	e	e	e	e	e	e	e	W	e	e	e	e	e	L	e
-{tableau vwe 2}d	e	e	e	e	e	e	e	e	W	e	e	e	e	e	e
-{tableau vwe 2}e	e	e	e	e	e	e	e	W	W	e	e	e	e	L	e
-{tableau vwe 2}f	e	e	e	e	e	e	W	e	e	L	W	e	e	e	e
-{tableau vwe 2}g	e	e	e	e	e	e	W	e	e	L	W	e	e	e	e
-{tableau vwe 3}a	e	e	e	e	e	e	W	e	e	L	e	e	e	L	e
-{tableau vwe 3}c	e	e	e	e	e	e	e	W	e	e	e	e	e	L	e
-{tableau vwe 3}d	e	e	e	e	e	W	W	e	e	L	e	e	e	L	e
-{tableau vwe 3}e	e	e	e	e	W	e	W	e	e	L	e	e	e	L	e
-{tableau vwe 3}f	e	e	e	e	e	e	W	e	L	L	W	e	e	L	e
-{tableau vwe 3}g	e	e	e	e	e	e	W	e	e	L	e	e	e	L	W
-{tableau vwe 4}a	e	e	e	e	e	L	e	e	e	W	e	e	e	e	e
-{tableau vwe 4}c	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e
-{tableau vwe 4}d	e	e	e	W	e	e	e	e	e	e	e	e	e	e	e
-{tableau vwe 4}e	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e
-{tableau vwe 4}f	e	e	e	e	e	L	e	e	L	W	W	e	e	e	e
-{tableau vwe 4}g	e	e	e	e	e	L	e	e	e	W	e	e	e	L	W
-{tableau vwe 4}h	e	e	e	e	e	L	e	e	e	W	e	e	e	L	W
-{tableau vwe 5}a	e	e	e	e	L	e	e	e	e	W	e	e	e	e	e
-{tableau vwe 5}b	e	e	e	W	L	W	e	e	e	e	e	e	e	e	e
-{tableau vwe 5}d	e	e	e	e	L	e	e	e	L	W	W	e	e	e	e
-{tableau vwe 5}e	e	e	e	e	L	e	e	e	e	W	e	e	e	L	W
-{tableau vwe 5}f	e	e	e	e	L	e	e	e	e	W	e	e	e	L	W
-{tableau vwe 6}a	e	e	e	e	e	e	e	e	W	e	e	e	e	e	e
-{tableau vwe 6}c	e	e	e	e	e	e	e	e	W	e	e	e	e	L	W
-{tableau vwe 6}d	e	e	e	e	e	e	e	e	W	e	e	e	e	L	W
-{tableau vwe 7}b	e	e	e	e	e	e	e	e	e	e	e	e	e	L	W
-{tableau vwe 7}c	e	e	e	e	e	e	e	e	e	e	e	e	e	L	W
-{tableau vi 1}a	W	L	e	e	e	e	L	e	L	e	e	e	e	e	e
-{tableau vi 1}c	e	L	W	e	e	e	L	e	L	e	e	e	e	e	e
-{tableau vi 1}d	W	L	e	e	e	e	L	e	L	W	e	e	e	W	e
-{tableau vi 1}e	W	L	e	e	e	e	L	W	L	W	e	e	e	e	e
-{tableau vi 2}a	e	e	e	e	e	e	W	L	W	L	e	e	e	e	e
-{tableau vi 2}b	e	e	e	e	e	e	e	L	W	e	e	e	e	W	e
-{tableau vi 2}d	e	e	e	e	e	e	e	L	W	e	e	e	e	W	e
-{tableau vi 2}e	e	e	e	e	e	e	e	e	W	e	e	e	e	e	e
-{tableau vi 2}f	e	e	e	e	e	e	W	L	e	L	W	e	e	e	e
-{tableau vi 3}a	e	e	e	e	e	e	W	e	e	L	e	e	e	L	e
-{tableau vi 3}c	e	e	e	e	e	e	e	W	e	e	e	e	e	L	e
-{tableau vi 3}d	e	e	e	e	e	W	W	e	e	L	e	e	e	L	e
-{tableau vi 3}e	e	e	e	e	W	e	W	e	e	L	e	e	e	L	e
-{tableau vi 3}f	e	e	e	e	e	e	W	L	e	L	e	e	e	L	W
-{tableau vi 4}a	e	e	e	e	e	L	e	e	e	W	e	e	e	e	e
-{tableau vi 4}c	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e
-{tableau vi 4}d	e	e	e	W	e	e	e	e	e	e	e	e	e	e	e
-{tableau vi 4}e	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e
-{tableau vi 4}f	e	e	e	e	e	L	e	L	e	W	e	e	e	e	W
-{tableau vi 4}g	e	e	e	e	e	L	e	e	e	W	e	e	e	L	W
-{tableau vi 5}a	e	e	e	e	L	e	e	e	e	W	e	e	e	e	e
-{tableau vi 5}b	e	e	e	W	L	W	e	e	e	e	e	e	e	e	e
-{tableau vi 5}d	e	e	e	e	L	e	e	L	e	W	e	e	e	e	W
-{tableau vi 5}e	e	e	e	e	L	e	e	e	e	W	e	e	e	L	W
-{tableau vi 6}a	e	e	e	e	e	e	e	W	e	e	e	e	e	e	L
-{tableau vi 6}c	e	e	e	e	e	e	e	W	e	e	e	e	e	L	e
-{tableau vi 7}b	e	e	e	e	e	e	e	e	e	e	e	e	e	L	W
+	Hd(F)	*Copy(syll)	*Insert(syll)	*FinalLongVowel	Max(mu)	NoLink(mu)	*NonHeadVowel	NoCoda	*NonHighVowel-red	Hd(mu)	Ident(high)	*HighMid	*VwV	Ident(son)	*ComplexOnset	Max
+{tableau o 1}a	W	L	e	e	e	e	L	e	L	e	e	e	e	e	e	e
+{tableau o 1}c	e	L	W	e	e	e	L	e	L	e	e	e	e	e	e	e
+{tableau o 1}d	W	L	e	e	e	e	L	e	L	W	e	e	e	e	e	e
+{tableau o 1}e	W	L	e	e	e	e	L	W	L	W	e	e	e	e	e	e
+{tableau o 2}a	e	e	e	e	e	e	W	e	W	L	e	e	e	e	e	e
+{tableau o 2}c	e	e	e	e	e	e	e	W	e	e	e	e	W	e	e	e
+{tableau o 2}d	e	e	e	e	e	e	e	e	W	e	e	e	W	e	e	e
+{tableau o 2}e	e	e	e	e	e	e	e	W	W	e	e	e	e	e	e	e
+{tableau o 2}f	e	e	e	e	e	e	W	e	e	L	W	W	e	e	e	e
+{tableau o 2}g	e	e	e	e	e	e	W	e	e	L	W	W	e	e	e	e
+{tableau o 3}a	e	e	e	e	e	e	W	e	e	L	e	e	L	e	e	e
+{tableau o 3}c	e	e	e	e	e	e	e	W	e	e	e	e	L	e	e	e
+{tableau o 3}d	e	e	e	e	e	W	W	e	e	L	e	e	L	e	e	e
+{tableau o 3}e	e	e	e	e	W	e	W	e	e	L	e	e	L	e	e	e
+{tableau o 3}f	e	e	e	e	e	e	W	e	L	L	W	W	L	e	e	e
+{tableau o 4}a	e	e	e	e	e	L	e	e	e	W	e	e	e	e	e	e
+{tableau o 4}c	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e	e
+{tableau o 4}d	e	e	e	W	e	e	e	e	e	e	e	e	e	e	e	e
+{tableau o 4}e	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e	e
+{tableau o 4}f	e	e	e	e	e	L	e	e	L	W	W	W	e	e	e	e
+{tableau o 4}g	e	e	e	e	e	L	e	e	e	W	e	e	L	W	e	e
+{tableau o 4}g	e	e	e	e	e	L	e	e	e	W	e	e	L	e	e	W
+{tableau o 5}a	e	e	e	e	L	e	e	e	e	W	e	e	e	e	e	e
+{tableau o 5}b	e	e	e	W	L	W	e	e	e	e	e	e	e	e	e	e
+{tableau o 5}d	e	e	e	e	L	e	e	e	L	W	W	W	e	e	e	e
+{tableau o 5}e	e	e	e	e	L	e	e	e	e	W	e	e	L	W	e	e
+{tableau o 5}f	e	e	e	e	L	e	e	e	e	W	e	e	L	e	e	W
+{tableau o 6}a	e	e	e	e	e	e	e	e	e	e	e	e	W	L	e	e
+{tableau o 6}b	e	e	e	e	e	e	e	e	L	e	W	W	W	L	e	e
+{tableau o 6}c	e	e	e	e	e	e	e	e	e	e	e	e	e	L	e	W
+{tableau o 7}b	e	e	e	e	e	e	e	e	L	e	W	W	e	e	e	e
+{tableau jo 7}b	e	e	e	e	e	e	e	e	L	e	W	W	e	e	e	e
+{tableau vwe 1}a	W	L	e	e	e	e	L	e	L	e	e	e	e	e	e	e
+{tableau vwe 1}c	e	L	W	e	e	e	L	e	L	e	e	e	e	e	e	e
+{tableau vwe 1}d	W	L	e	e	e	e	L	e	L	W	e	e	e	e	W	e
+{tableau vwe 1}e	W	L	e	e	e	e	L	W	L	W	e	e	e	e	e	e
+{tableau vwe 2}a	e	e	e	e	e	e	W	e	W	L	e	e	e	e	L	e
+{tableau vwe 2}c	e	e	e	e	e	e	e	W	e	e	e	e	e	e	L	e
+{tableau vwe 2}d	e	e	e	e	e	e	e	e	W	e	e	e	e	e	e	e
+{tableau vwe 2}e	e	e	e	e	e	e	e	W	W	e	e	e	e	e	L	e
+{tableau vwe 2}f	e	e	e	e	e	e	W	e	e	L	W	W	e	e	e	e
+{tableau vwe 2}g	e	e	e	e	e	e	W	e	e	L	W	W	e	e	e	e
+{tableau vwe 3}a	e	e	e	e	e	e	W	e	e	L	e	e	e	e	L	e
+{tableau vwe 3}c	e	e	e	e	e	e	e	W	e	e	e	e	e	e	L	e
+{tableau vwe 3}d	e	e	e	e	e	W	W	e	e	L	e	e	e	e	L	e
+{tableau vwe 3}e	e	e	e	e	W	e	W	e	e	L	e	e	e	e	L	e
+{tableau vwe 3}f	e	e	e	e	e	e	W	e	L	L	W	W	e	e	L	e
+{tableau vwe 3}g	e	e	e	e	e	e	W	e	e	L	e	e	e	e	L	W
+{tableau vwe 4}a	e	e	e	e	e	L	e	e	e	W	e	e	e	e	e	e
+{tableau vwe 4}c	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e	e
+{tableau vwe 4}d	e	e	e	W	e	e	e	e	e	e	e	e	e	e	e	e
+{tableau vwe 4}e	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e	e
+{tableau vwe 4}f	e	e	e	e	e	L	e	e	L	W	W	e	e	e	e	e
+{tableau vwe 4}g	e	e	e	e	e	L	e	e	e	W	e	e	e	e	L	W
+{tableau vwe 4}h	e	e	e	e	e	L	e	e	e	W	e	e	e	e	L	W
+{tableau vwe 5}a	e	e	e	e	L	e	e	e	e	W	e	e	e	e	e	e
+{tableau vwe 5}b	e	e	e	W	L	W	e	e	e	e	e	e	e	e	e	e
+{tableau vwe 5}d	e	e	e	e	L	e	e	e	L	W	W	e	e	e	e	e
+{tableau vwe 5}e	e	e	e	e	L	e	e	e	e	W	e	e	e	e	L	W
+{tableau vwe 5}f	e	e	e	e	L	e	e	e	e	W	e	e	e	e	L	W
+{tableau vwe 6}a	e	e	e	e	e	e	e	e	W	e	L	e	e	e	e	e
+{tableau vwe 6}c	e	e	e	e	e	e	e	e	W	e	L	e	e	e	L	W
+{tableau vwe 6}d	e	e	e	e	e	e	e	e	W	e	L	e	e	e	L	W
+{tableau vwe 7}b	e	e	e	e	e	e	e	e	e	e	e	e	e	e	L	W
+{tableau vwe 7}c	e	e	e	e	e	e	e	e	e	e	e	e	e	e	L	W
+{tableau vi 1}a	W	L	e	e	e	e	L	e	L	e	e	L	e	e	e	e
+{tableau vi 1}c	e	L	W	e	e	e	L	e	L	e	e	L	e	e	e	e
+{tableau vi 1}d	W	L	e	e	e	e	L	e	L	W	e	L	e	e	W	e
+{tableau vi 1}e	W	L	e	e	e	e	L	W	L	W	e	L	e	e	e	e
+{tableau vi 2}a	e	e	e	e	e	e	W	L	W	L	e	W	e	e	e	e
+{tableau vi 2}b	e	e	e	e	e	e	e	L	W	e	e	e	e	e	W	e
+{tableau vi 2}d	e	e	e	e	e	e	e	L	W	e	e	e	e	e	W	e
+{tableau vi 2}e	e	e	e	e	e	e	e	e	W	e	e	e	e	e	e	e
+{tableau vi 2}f	e	e	e	e	e	e	W	L	e	L	W	e	e	e	e	e
+{tableau vi 3}a	e	e	e	e	e	e	W	e	e	L	e	W	e	e	L	e
+{tableau vi 3}c	e	e	e	e	e	e	e	W	e	e	e	e	e	e	L	e
+{tableau vi 3}d	e	e	e	e	e	W	W	e	e	L	e	W	e	e	L	e
+{tableau vi 3}e	e	e	e	e	W	e	W	e	e	L	e	W	e	e	L	e
+{tableau vi 3}f	e	e	e	e	e	e	W	L	e	L	e	W	e	e	L	W
+{tableau vi 4}a	e	e	e	e	e	L	e	e	e	W	e	e	e	e	e	e
+{tableau vi 4}c	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e	e
+{tableau vi 4}d	e	e	e	W	e	e	e	e	e	e	e	e	e	e	e	e
+{tableau vi 4}e	e	e	e	e	W	L	e	e	e	e	e	e	e	e	e	e
+{tableau vi 4}f	e	e	e	e	e	L	e	L	e	W	e	e	e	e	e	W
+{tableau vi 4}g	e	e	e	e	e	L	e	e	e	W	e	e	e	e	L	W
+{tableau vi 5}a	e	e	e	e	L	e	e	e	e	W	e	e	e	e	e	e
+{tableau vi 5}b	e	e	e	W	L	W	e	e	e	e	e	e	e	e	e	e
+{tableau vi 5}d	e	e	e	e	L	e	e	L	e	W	e	e	e	e	e	W
+{tableau vi 5}e	e	e	e	e	L	e	e	e	e	W	e	e	e	e	L	W
+{tableau vi 6}a	e	e	e	e	e	e	e	W	e	e	e	e	e	e	e	L
+{tableau vi 6}c	e	e	e	e	e	e	e	W	e	e	e	e	e	e	L	e
+{tableau vi 7}b	e	e	e	e	e	e	e	e	e	e	e	e	e	e	L	W
