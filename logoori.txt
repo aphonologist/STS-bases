@@ -41,35 +41,6 @@
 {tableau vwe 5}b	e	e	e	e	e	e	e	W	L	W	e	e	e	e	e	e	e	e
 {tableau vwe 5}d	e	e	e	e	e	e	W	e	L	e	e	L	W	e	e	e	e	e
 {tableau vwe 6}a	e	e	e	e	e	e	e	e	e	e	e	W	L	e	e	e	e	e
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
-																		
 {tableau vi 8}a	e	e	e	e	e	e	e	e	e	e	e	e	e	W	e	e	L	e
 {tableau vo 6}a	e	e	e	e	e	e	e	e	e	e	e	W	L	e	e	L	e	e
 {tableau vo 7}a	e	e	e	e	e	e	e	e	e	e	e	e	e	e	e	W	L	e
